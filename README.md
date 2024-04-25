@@ -175,6 +175,10 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
+
+Developed by: NISHA.D
+RegisterNumber: 212223230143
+
 lcd.h
 ```
 #ifndef LCD_H_
